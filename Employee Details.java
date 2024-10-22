@@ -1,4 +1,4 @@
- public class Employee {
+.. public class Employee {
     // Fields
     private String name;
     private double basicSalary;
